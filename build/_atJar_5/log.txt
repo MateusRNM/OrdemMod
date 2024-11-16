@@ -1,0 +1,7 @@
+Java Launcher: C:\Program Files\Eclipse Adoptium\jdk-8.0.432.6-hotspot\bin\java.exe
+Arguments: '--inJar, C:\Users\hjmt1\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.34\forge-1.16.5-36.2.34-injected.jar, --outJar, C:\Users\hjmt1\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.34_mapped_snapshot_20210309-1.16.5\forge-1.16.5-36.2.34_mapped_snapshot_20210309-1.16.5.jar, --logFile, accesstransform.log, --atFile, D:\modsdev\OrdemMod\build\_atJar_5\parent_at.cfg'
+Classpath:
+ - C:\Users\hjmt1\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working directory: D:\modsdev\OrdemMod\build\_atJar_5
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
